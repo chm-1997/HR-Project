@@ -3,7 +3,7 @@
 ## Data Used
 HR Data with over 22000 rows from the year 2000 to 2020.
 ## Data Cleaning and Analysis
-USE MySQL Workbench to clean and analyze data.
+Use MySQL Workbench to clean and analyze data.
 ### Data Cleaning
 - Change column name
 - Modify column data type
